@@ -1,7 +1,7 @@
 CPPCast
 =======
 
-A C++/Qt implementation of the Chromecast based on Sebastian Mauer's Cheapcast.
+A C++/Qt implementation of the Chromecast based on Sebastian Mauer's [Cheapcast](https://github.com/mauimauer/cheapcast).
 
 This is a personal learning project and isn't intended to be used by anyone but me. It may never actually get finished or even to a working state.
 
